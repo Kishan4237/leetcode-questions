@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -72,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
