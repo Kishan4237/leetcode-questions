@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Kishan4237/leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Kishan4237/leetcode-questions/tree/master/0605-can-place-flowers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
