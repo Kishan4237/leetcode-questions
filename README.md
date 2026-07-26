@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Kishan4237/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Kishan4237/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kishan4237/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
