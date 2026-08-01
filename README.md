@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Kishan4237/leetcode-questions/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Kishan4237/leetcode-questions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
