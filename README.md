@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kishan4237/leetcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Kishan4237/leetcode-questions/tree/master/1518-water-bottles) |
+| [2235-add-two-integers](https://github.com/Kishan4237/leetcode-questions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
