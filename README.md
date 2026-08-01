@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Kishan4237/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Kishan4237/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
