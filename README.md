@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0414-third-maximum-number) |
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
