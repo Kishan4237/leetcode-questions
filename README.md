@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishan4237/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Kishan4237/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishan4237/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Kishan4237/leetcode-questions/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishan4237/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
