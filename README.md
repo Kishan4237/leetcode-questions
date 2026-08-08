@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Kishan4237/leetcode-questions/tree/master/0670-maximum-swap) |
@@ -181,4 +182,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
