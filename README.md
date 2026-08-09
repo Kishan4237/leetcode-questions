@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Kishan4237/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishan4237/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0541-reverse-string-ii) |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
