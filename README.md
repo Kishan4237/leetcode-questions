@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Kishan4237/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kishan4237/leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Kishan4237/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0162-find-peak-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kishan4237/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Kishan4237/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
