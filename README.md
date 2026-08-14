@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Kishan4237/leetcode-questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan4237/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishan4237/leetcode-questions/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
