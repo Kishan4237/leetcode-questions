@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kishan4237/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Kishan4237/leetcode-questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishan4237/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan4237/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Kishan4237/leetcode-questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [3340-check-balanced-string](https://github.com/Kishan4237/leetcode-questions/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishan4237/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
