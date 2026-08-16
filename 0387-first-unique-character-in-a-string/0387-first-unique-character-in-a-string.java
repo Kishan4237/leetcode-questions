@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
             int index = ch - 'a';
-                        arr[index]++; 
+            arr[index]++; 
         }
         for(int i=0;i<n;i++){
             char ch = s.charAt(i);
