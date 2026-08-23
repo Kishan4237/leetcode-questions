@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishan4237/leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishan4237/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishan4237/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Kishan4237/leetcode-questions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kishan4237/leetcode-questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
