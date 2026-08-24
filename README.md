@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kishan4237/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishan4237/leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Kishan4237/leetcode-questions/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kishan4237/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Kishan4237/leetcode-questions/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kishan4237/leetcode-questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kishan4237/leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kishan4237/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -254,10 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -274,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
