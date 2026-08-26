@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kishan4237/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishan4237/leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Kishan4237/leetcode-questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kishan4237/leetcode-questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/Kishan4237/leetcode-questions/tree/master/3663-find-the-least-frequent-digit) |
