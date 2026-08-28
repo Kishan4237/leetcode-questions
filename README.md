@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Kishan4237/leetcode-questions/tree/master/0485-max-consecutive-ones) |
+| [0554-brick-wall](https://github.com/Kishan4237/leetcode-questions/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/Kishan4237/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishan4237/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Kishan4237/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0554-brick-wall](https://github.com/Kishan4237/leetcode-questions/tree/master/0554-brick-wall) |
 | [1207-unique-number-of-occurrences](https://github.com/Kishan4237/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
