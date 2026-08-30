@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kishan4237/leetcode-questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kishan4237/leetcode-questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kishan4237/leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Kishan4237/leetcode-questions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kishan4237/leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Kishan4237/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/Kishan4237/leetcode-questions/tree/master/0670-maximum-swap) |
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Kishan4237/leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
