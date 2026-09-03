@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kishan4237/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kishan4237/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kishan4237/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishan4237/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Kishan4237/leetcode-questions/tree/master/0290-word-pattern) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Kishan4237/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishan4237/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kishan4237/leetcode-questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Kishan4237/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kishan4237/leetcode-questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
