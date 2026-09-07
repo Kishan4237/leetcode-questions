@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Kishan4237/leetcode-questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan4237/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Kishan4237/leetcode-questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Kishan4237/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1872-stone-game-viii](https://github.com/Kishan4237/leetcode-questions/tree/master/1872-stone-game-viii) |
 ## Memoization
