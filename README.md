@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishan4237/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Kishan4237/leetcode-questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishan4237/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kishan4237/leetcode-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kishan4237/leetcode-questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Kishan4237/leetcode-questions/tree/master/0342-power-of-four) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kishan4237/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kishan4237/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kishan4237/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Kishan4237/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
