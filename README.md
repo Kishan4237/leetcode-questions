@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kishan4237/leetcode-questions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Kishan4237/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Kishan4237/leetcode-questions/tree/master/0554-brick-wall) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kishan4237/leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Kishan4237/leetcode-questions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kishan4237/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishan4237/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Kishan4237/leetcode-questions/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/Kishan4237/leetcode-questions/tree/master/0554-brick-wall) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kishan4237/leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/Kishan4237/leetcode-questions/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishan4237/leetcode-questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishan4237/leetcode-questions/tree/master/1512-number-of-good-pairs) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Kishan4237/leetcode-questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Kishan4237/leetcode-questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/Kishan4237/leetcode-questions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishan4237/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kishan4237/leetcode-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
